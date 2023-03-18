@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Movie App',
+      title: 'Movie Application Ui',
       theme: ThemeData(
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
